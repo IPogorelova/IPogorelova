@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 My name is **Inna Abdrakhmanova**
 
+<br />
+
 🔭 Working as a frontend-developer at [JetBrains](https://www.jetbrains.com/).
 
 🌱 Interested in how to make web-interfaces [more accessible](https://www.w3.org/WAI/standards-guidelines/) for all kind of users.
@@ -24,6 +26,8 @@ My name is **Inna Abdrakhmanova**
 🎙 Hosting my own non-professional podcast about professions (_in Russian_):  [«Кем я стал, когда вырос»](https://kemstalkogdavyros.mave.digital/).
 
 🥨 Living in Munich, Bavaria.
+
+<br />
 
 **Primary languages and frameworks:**
 
@@ -39,6 +43,7 @@ My name is **Inna Abdrakhmanova**
 <!--START_SECTION:feed-->
 <!--END_SECTION:feed-->
 
+<br />
 
 **Podcast platforms:**
 
