@@ -60,10 +60,10 @@ My name is **Inna Abdrakhmanova**
     <summary><b>Some charts:</b></summary>
     <br />
     <p>
-        <img src=https://github-readme-stats.vercel.app/api?username=IPogorelova&show_icons=true&theme=dracula alt="Inna Abdrakhmanova GitHub Stats chart">
+        <img src=https://github-readme-stats.vercel.app/api?username=IPogorelova&show_icons=true&theme=gruvbox alt="Inna Abdrakhmanova GitHub Stats chart">
     </p>
     <p>
-        <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=IPogorelova&layout=compact&theme=dracula alt="Most Used Languages chart">
+        <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=IPogorelova&layout=compact&theme=gruvbox alt="Most Used Languages chart">
     </p>
 </details>
 
