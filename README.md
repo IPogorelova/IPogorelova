@@ -55,7 +55,18 @@ My name is **Inna Abdrakhmanova**
 [![Apple podcasts](https://img.shields.io/badge/Apple_Podcasts-9933CC?style=for-the-badge&logo=apple-podcasts&logoColor=white)](https://podcasts.apple.com/us/podcast/кем-я-стал-когда-вырос/id1627673416)
 [![Google podcasts](https://img.shields.io/badge/Google_Podcasts-4285F4?style=for-the-badge&logo=google-podcasts&logoColor=white)](https://podcasts.google.com/feed/aHR0cHM6Ly9jbG91ZC5tYXZlLmRpZ2l0YWwvMzg4MDc)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/2fHafIKRQHyaaptmwc9fSr)
-[![Deezer](https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white)](https://deezer.com/show/3788247)
+[![Castbox](https://img.shields.io/badge/Castbox-f55b23?&style=for-the-badge&logo=castbox&logoColor=white)](https://castbox.fm/channel/id4966758?utm_source=podcaster&utm_medium=dlink&utm_campaign=c_4966758&utm_content=%D0%9A%D0%B5%D0%BC%20%D1%8F%20%D1%81%D1%82%D0%B0%D0%BB%2C%20%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0%20%D0%B2%D1%8B%D1%80%D0%BE%D1%81-CastBox_FM)
+[![Podcast Addict](https://img.shields.io/badge/Podcast_Addict-f4842d?&style=for-the-badge&logo=podcast-addict&logoColor=white)](https://podcastaddict.com/podcast/3987383)
+[![Pocket Casts](https://img.shields.io/badge/Pocket_Casts-F43E37?&style=for-the-badge&logo=pocket-casts&logoColor=white)](https://pca.st/6dftd2tw)
+[![Deezer](https://img.shields.io/badge/Deezer-2692b7?style=for-the-badge&logo=deezer&logoColor=white)](https://deezer.com/show/3788247)
+[![Яндекс.Музыка](https://img.shields.io/badge/Яндекс_Музыка-FC3F1D?&style=for-the-badge&logo=yandex&logoColor=white)](https://music.yandex.ru/album/22672213)
+
+
+**Socials:**
+
+[![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kemstalkogdavyros)
+[![Instagram](https://img.shields.io/badge/Instagram-9933CC?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ne_tumannaya/)
+
 
 ---
 
