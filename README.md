@@ -19,7 +19,7 @@ My name is **Inna Abdrakhmanova**
 
 <br />
 
-🔭 Working as a frontend-developer at [JetBrains](https://www.jetbrains.com/).
+🛠 Working as a frontend-developer at [JetBrains](https://www.jetbrains.com/).
 
 🌱 Interested in how to make web-interfaces [more accessible](https://www.w3.org/WAI/standards-guidelines/) for all kind of users.
 
