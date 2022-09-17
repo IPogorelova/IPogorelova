@@ -13,5 +13,5 @@ jobs:
         with:
           feed-url: https://cloud.mave.digital/38807
           max: 5
-          readme-section: channel
+          readme-section: feed
           branch: main
