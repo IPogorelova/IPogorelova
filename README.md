@@ -58,6 +58,7 @@ My name is **Inna Abdrakhmanova**
 
 <details>
     <summary><b>Some charts:</b></summary>
+    <br />
     <p>
         <img src=https://github-readme-stats.vercel.app/api?username=IPogorelova&show_icons=true&theme=dracula alt="Inna Abdrakhmanova GitHub Stats chart">
     </p>
