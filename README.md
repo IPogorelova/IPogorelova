@@ -41,6 +41,11 @@ My name is **Inna Abdrakhmanova**
 ### 🎶 Recent podcast episodes:
 
 <!--START_SECTION:feed-->
+* [Event-менеджер: в IT с гуманитарным образованием? 🔠](https:&#x2F;&#x2F;kemstalkogdavyros.mave.digital&#x2F;ep-6)
+* [UI&#x2F;UX дизайнер: дизайн - это не про красоту? 🎨](https:&#x2F;&#x2F;kemstalkogdavyros.mave.digital&#x2F;ep-5)
+* [Backend-разработчик: 20 человек на одну точечку онлайна? 🟢](https:&#x2F;&#x2F;kemstalkogdavyros.mave.digital&#x2F;ep-4)
+* [Тестировщик: тестирование - не поиск багов? 👀](https:&#x2F;&#x2F;kemstalkogdavyros.mave.digital&#x2F;ep-3)
+* [Frontend-разработчица: ты просто красишь кнопочки? 💅](https:&#x2F;&#x2F;kemstalkogdavyros.mave.digital&#x2F;ep-2)
 <!--END_SECTION:feed-->
 
 <br />
