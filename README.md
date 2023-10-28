@@ -41,11 +41,11 @@ My name is **Inna Abdrakhmanova**
 ### 🎶 Recent podcast episodes:
 
 <!--START_SECTION:feed-->
+* [Пилот —&gt; дата-инженер: Костя Соколов (бонус!) ✈️](https:&#x2F;&#x2F;kemstalkogdavyros.mave.digital&#x2F;ep-13)
 * [Банковский работник —&gt; нутрициолог: Марго Дмитриева 🍏](https:&#x2F;&#x2F;kemstalkogdavyros.mave.digital&#x2F;ep-12)
 * [Продакт-менеджер —&gt; сёрф-кемп в Марокко: Женя Тарасова 🏄‍♀️](https:&#x2F;&#x2F;kemstalkogdavyros.mave.digital&#x2F;ep-11)
 * [Вокалистка —&gt; автор туров по маякам: Настя Макарова 🌊](https:&#x2F;&#x2F;kemstalkogdavyros.mave.digital&#x2F;ep-10)
 * [Инженер-физик —&gt; визажист: Наташа Щеглова 🎨](https:&#x2F;&#x2F;kemstalkogdavyros.mave.digital&#x2F;ep-9)
-* [Стоматолог —&gt; фотограф: Света Анисимова 📸](https:&#x2F;&#x2F;kemstalkogdavyros.mave.digital&#x2F;ep-8)
 <!--END_SECTION:feed-->
 
 <br />
