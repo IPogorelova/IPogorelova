@@ -41,11 +41,11 @@ My name is **Inna Abdrakhmanova**
 ### 🎶 Recent podcast episodes:
 
 <!--START_SECTION:feed-->
+* [SMM-менеджер: сммщик — человек (камерный) оркестр? 🎷](https:&#x2F;&#x2F;kemstalkogdavyros.mave.digital&#x2F;ep-16)
 * [Стример Miker (Михаил Мирчук): как стримить, когда интернет ещё не изобрели? 🎮](https:&#x2F;&#x2F;kemstalkogdavyros.mave.digital&#x2F;ep-15)
 * [Продюсер подкастов (Оля Микитась): а вы точно продюсер? 😏](https:&#x2F;&#x2F;kemstalkogdavyros.mave.digital&#x2F;ep-14)
 * [Пилот —&gt; дата-инженер: Костя Соколов (бонус!) ✈️](https:&#x2F;&#x2F;kemstalkogdavyros.mave.digital&#x2F;ep-13)
 * [Банковский работник —&gt; нутрициолог: Марго Дмитриева 🍏](https:&#x2F;&#x2F;kemstalkogdavyros.mave.digital&#x2F;ep-12)
-* [Продакт-менеджер —&gt; сёрф-кемп в Марокко: Женя Тарасова 🏄‍♀️](https:&#x2F;&#x2F;kemstalkogdavyros.mave.digital&#x2F;ep-11)
 <!--END_SECTION:feed-->
 
 <br />
