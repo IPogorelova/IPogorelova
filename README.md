@@ -41,11 +41,11 @@ My name is **Inna Abdrakhmanova**
 ### 🎶 Recent podcast episodes:
 
 <!--START_SECTION:feed-->
+* [Luke Thompson (Luke’s English Podcast): how to finally learn English? 🦉 (bonus!)](https:&#x2F;&#x2F;kemstalkogdavyros.mave.digital&#x2F;ep-36)
 * [Самые нужные вопросы преподам английского 🇬🇧 (бонус!)](https:&#x2F;&#x2F;kemstalkogdavyros.mave.digital&#x2F;ep-35)
 * [Лектор (Анна Виленская): как влюбить в музыку? 🎶](https:&#x2F;&#x2F;kemstalkogdavyros.mave.digital&#x2F;ep-34)
 * [Специалист по доступности и инклюзии (Лера Курмак, Яндекс): это касается (не) каждого? 💫](https:&#x2F;&#x2F;kemstalkogdavyros.mave.digital&#x2F;ep-33)
 * [Урбанист (Аркадий Гершман): можно ли создать идеальный город? 🏙️](https:&#x2F;&#x2F;kemstalkogdavyros.mave.digital&#x2F;ep-32)
-* [Бариста (Ксюша, @howmetyourcoffee): откуда в кофе грейпфрут и персики? 🍑](https:&#x2F;&#x2F;kemstalkogdavyros.mave.digital&#x2F;ep-31)
 <!--END_SECTION:feed-->
 
 <br />
